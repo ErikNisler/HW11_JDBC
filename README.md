@@ -1,2 +1,5 @@
-# Ukol11_zbozi
-Úkol 11 - zboží
+HW11 by engeto academy
+
+Goal
+--
+Using mysql via JDBC connector.
